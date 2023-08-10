@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trabajo_Final_TICMAS</string>
+    <string name="texto_1">texto 1</string>
+    <string name="comparar">COMPARAR</string>
+    <string name="texto_2">texto 2</string>
+    <string name="empty" />
+</resources>
